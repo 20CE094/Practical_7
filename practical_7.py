@@ -1,6 +1,6 @@
-#NAME: HENA KHARWA
-#ID: 20CE043
-#Github link: https://github.com/20CE043/Practical_7.git
+#NAME: NEHAL PATEL
+#ID: 20CE094
+#Github link: https://github.com/20CE094/Practical_7.git
 #Lapindrome
 N = int(input())
 str_list =[]
